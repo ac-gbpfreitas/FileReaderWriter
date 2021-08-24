@@ -1,0 +1,15 @@
+.container{
+	float: left;
+	padding: 3px;
+	margin-top: 5%;
+	margin-left: 10%;
+	/*border: 1px solid rgb(0,0,0);*/
+}
+
+div{
+	margin-bottom: 3%;
+}
+/*td{
+	border: 1px solid rgb(0,0,0);
+}
+*/
